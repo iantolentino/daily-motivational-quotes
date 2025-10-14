@@ -1,6 +1,6 @@
 # Ghibli Daily Quotes
 
-**Ghibli Daily Quotes** is a lightweight Chromium extension that replaces the New Tab page with a beautiful, motivational-quotes experience inspired by Ghibli-style art. It shows a fresh random quote on every new tab, supports favorites, dark/light theme matching your SaverPro brand, background image selection, daily notifications, and exportable favorites via the Settings UI.
+**Ghibli Daily Quotes** is a lightweight extension that replaces the New Tab page with a beautiful, motivational-quotes experience inspired by Ghibli-style art. It shows a fresh random quote on every new tab, supports favorites, dark/light theme matching your SaverPro brand, background image selection, daily notifications, and exportable favorites via the Settings UI.
 
 ---
 
