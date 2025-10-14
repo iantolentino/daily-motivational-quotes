@@ -1,42 +1,258 @@
 [
-  {
-    "text": "Sometimes you have to do something unforgivable just to survive.",
-    "author": "Auntie from the Studio"
-  },
-  {
-    "text": "Life is like the wind — sometimes gentle, sometimes wild. Keep sailing.",
-    "author": "Hayao"
-  },
-  {
-    "text": "Small steps every day build far-off futures.",
-    "author": "Forest Sage"
-  },
-  {
-    "text": "Do what you can, with what you have, where you are.",
-    "author": "Ghibli Spirit"
-  },
-  {
-    "text": "Keep your curiosity; it’s the map to wonder.",
-    "author": "Studio Mentor"
-  },
-  {
-    "text": "The simplest things hold the most meaning.",
-    "author": "Quiet Voice"
-  },
-  {
-    "text": "Courage isn’t loud. It simply keeps walking.",
-    "author": "Journeyer"
-  },
-  {
-    "text": "Let time do the refining.",
-    "author": "Calm Oak"
-  },
-  {
-    "text": "When you feel lost, look at the sky. You're still on the right path.",
-    "author": "Star Guide"
-  },
-  {
-    "text": "Your effort compounds, like a tiny seed becoming a tree.",
-    "author": "Garden Keeper"
-  }
+{
+"text": "Sometimes you have to do something unforgivable just to survive.",
+"author": "Auntie from the Studio"
+},
+{
+"text": "Life is like the wind — sometimes gentle, sometimes wild. Keep sailing.",
+"author": "Hayao"
+},
+{
+"text": "Small steps every day build far-off futures.",
+"author": "Forest Sage"
+},
+{
+"text": "Do what you can, with what you have, where you are.",
+"author": "Ghibli Spirit"
+},
+{
+"text": "Keep your curiosity; it’s the map to wonder.",
+"author": "Studio Mentor"
+},
+{
+"text": "The simplest things hold the most meaning.",
+"author": "Quiet Voice"
+},
+{
+"text": "Courage isn’t loud. It simply keeps walking.",
+"author": "Journeyer"
+},
+{
+"text": "Let time do the refining.",
+"author": "Calm Oak"
+},
+{
+"text": "When you feel lost, look at the sky. You're still on the right path.",
+"author": "Star Guide"
+},
+{
+"text": "Your effort compounds, like a tiny seed becoming a tree.",
+"author": "Garden Keeper"
+},
+{
+"text": "Start small, stay consistent, surprise yourself later.",
+"author": "Anonymous"
+},
+{
+"text": "Progress is louder than promise. Keep building.",
+"author": "Quiet Engine"
+},
+{
+"text": "A single page turned is a story moving forward.",
+"author": "Library Keeper"
+},
+{
+"text": "Storms teach roots to grow deeper.",
+"author": "Old Sailor"
+},
+{
+"text": "Practice patience — it compounds into mastery.",
+"author": "Apprentice"
+},
+{
+"text": "Make space for small wins; they become momentum.",
+"author": "Daily Planner"
+},
+{
+"text": "The horizon widens when you keep going.",
+"author": "Roadwalker"
+},
+{
+"text": "Clear intent beats busy motion.",
+"author": "Still Mind"
+},
+{
+"text": "Failures are the coordinates on the map to success.",
+"author": "Cartographer"
+},
+{
+"text": "Be kind to the future you — invest a little every day.",
+"author": "Kind Reminder"
+},
+{
+"text": "When doubt knocks, answer with small action.",
+"author": "Doorstep"
+},
+{
+"text": "Focus on what you can do now; the rest arranges itself.",
+"author": "Now Guide"
+},
+{
+"text": "Routine builds shelter for big dreams.",
+"author": "Habit Architect"
+},
+{
+"text": "A calm heart sees the clear path.",
+"author": "Meditative One"
+},
+{
+"text": "Learn like a child, act like a grown-up.",
+"author": "Balance Keeper"
+},
+{
+"text": "The quietest progress is often the strongest.",
+"author": "Understudy"
+},
+{
+"text": "Turn small margins into lasting habits.",
+"author": "Margin Maker"
+},
+{
+"text": "Bring curiosity to hard things and they become interesting.",
+"author": "Explorer"
+},
+{
+"text": "Energy follows direction. Choose wisely.",
+"author": "Compass"
+},
+{
+"text": "Dreams get built one ordinary day at a time.",
+"author": "Builder"
+},
+{
+"text": "Tidy up your focus and the rest tidies itself.",
+"author": "Organizer"
+},
+{
+"text": "When you keep showing up, luck knows where to find you.",
+"author": "Lucky Habit"
+},
+{
+"text": "Be patient with progress; it often arrives disguised as repetition.",
+"author": "Patient Voice"
+},
+{
+"text": "Your future self will thank you for what you start today.",
+"author": "Future Friend"
+},
+{
+"text": "Boldness begins with a single brave step.",
+"author": "Courage Coach"
+},
+{
+"text": "Simplify to amplify. Remove noise, keep signal.",
+"author": "Signal Keeper"
+},
+{
+"text": "A steady drip makes a deep well over time.",
+"author": "Well Keeper"
+},
+{
+"text": "Challenges are invitations to become stronger.",
+"author": "Invitation"
+},
+{
+"text": "Your pace matters less than your direction.",
+"author": "Trail Marker"
+},
+{
+"text": "Celebrate tiny improvements — they stack.",
+"author": "Cheerful Guide"
+},
+{
+"text": "Treat effort like a deposit. Compounding is inevitable.",
+"author": "Investor Mind"
+},
+{
+"text": "Let curiosity lead, but bring discipline along.",
+"author": "Keeper of Balance"
+},
+{
+"text": "Be brave enough to begin and patient enough to continue.",
+"author": "Quiet Brave"
+},
+{
+"text": "A clear goal turns wandering into walking.",
+"author": "Purpose Seeker"
+},
+{
+"text": "The smallest step taken regularly is a giant leap in disguise.",
+"author": "Steady Walker"
+},
+{
+"text": "Your consistency is a quiet revolution.",
+"author": "Revolutionary Habit"
+},
+{
+"text": "When plans change, pivot with curiosity, not panic.",
+"author": "Calm Pivot"
+},
+{
+"text": "Invest in learning; the returns last a lifetime.",
+"author": "Student of Life"
+},
+{
+"text": "Trust the process; show up for it daily.",
+"author": "Process Friend"
+},
+{
+"text": "Sow simplicity and harvest clarity.",
+"author": "Garden Thinker"
+},
+{
+"text": "Habit is the engine of long-term results.",
+"author": "Engine Builder"
+},
+{
+"text": "Be the person who finishes things.",
+"author": "Finisher"
+},
+{
+"text": "A focused minute is worth an hour of distraction.",
+"author": "Focus Coach"
+},
+{
+"text": "Listen to what your small actions want to become.",
+"author": "Listener"
+},
+{
+"text": "Confidence grows where competence is practiced.",
+"author": "Practice Advocate"
+},
+{
+"text": "When you nurture one thing well, it multiplies.",
+"author": "Nurturer"
+},
+{
+"text": "Start with kindness — to others and to yourself.",
+"author": "Kindness Keeper"
+},
+{
+"text": "Every new day is an untold possibility.",
+"author": "Daydreamer"
+},
+{
+"text": "Build rhythms that outlast motivation.",
+"author": "Rhythm Maker"
+},
+{
+"text": "Take the next reasonable step; repeat.",
+"author": "Step Taker"
+},
+{
+"text": "Keep your compass steady even when storms arrive.",
+"author": "Navigator"
+},
+{
+"text": "Small courage multiplied daily moves mountains.",
+"author": "Mountain Mover"
+},
+{
+"text": "Make your choices a promise to your future self.",
+"author": "Promise Keeper"
+},
+{
+"text": "Focus on creating, not comparing.",
+"author": "Creator"
+}
 ]
