@@ -1,8 +1,4 @@
-Of course. The original list used fictional, archetypal authors to create a specific "Studio Ghibli" and wisdom-quote aesthetic. Here is a recreated list where every quote is attributed to its real-life author or historical figure.
 
-I've kept the spirit of the original quotes but matched them to the actual person who said something similar in meaning.
-
-```json
 [
   {
     "text": "It is sometimes necessary to do something unforgivable in order to be able to go on living.",
@@ -237,4 +233,3 @@ I've kept the spirit of the original quotes but matched them to the actual perso
     "author": "Ernest Hemingway"
   }
 ]
-```
