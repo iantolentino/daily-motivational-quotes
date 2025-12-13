@@ -24,7 +24,7 @@
     "text": "Simplicity is the ultimate sophistication.",
     "author": "Leonardo da Vinci"
   },
-  {
+  { 
     "text": "Courage is not the absence of fear, but the triumph over it.",
     "author": "Nelson Mandela"
   },
@@ -1473,6 +1473,7 @@
     "author": "Thomas A. Buckner"
   }
 ]
+
 
 
 
