@@ -13,7 +13,7 @@
 * 🔔 Optional daily notification: "Quote of the Day" 
 * ⚙ Settings page to configure theme, background style, notifications, and favorites
 * 📄 New Tab override (`chrome_url_overrides`) — seamless replacement of the browser new-tab page
-* 🔒 Local-first: quotes and favorites stored locally; no external network required (unless you choose to extend it)
+* 🔒 Local-first: quotes and favorites stored locally; no external network required (unless you choose to extend it) 
 
 ---
 
