@@ -4,7 +4,7 @@
 
 ---
  
-## Key Features  
+## Key Features   
  
 * ✅ Random motivational quote every new tab 
 * ❤️ Save and manage favorite quotes (persisted in `chrome.storage.local`) 
