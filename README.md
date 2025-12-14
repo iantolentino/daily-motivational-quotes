@@ -9,7 +9,7 @@
 * ✅ Random motivational quote every new tab
 * ❤️ Save and manage favorite quotes (persisted in `chrome.storage.local`) 
 * 🌙 Dark / Light theme with SaverPro-styled colors
-* 🖼 Ghibli-style background image set (5 sample backgrounds)
+* 🖼 Ghibli-style background image set (5 sample backgrounds) 
 * 🔔 Optional daily notification: "Quote of the Day" 
 * ⚙ Settings page to configure theme, background style, notifications, and favorites
 * 📄 New Tab override (`chrome_url_overrides`) — seamless replacement of the browser new-tab page
