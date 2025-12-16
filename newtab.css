@@ -1,7 +1,7 @@
 :root{
   --bg-1:#0b1020;--bg-2:#0f1724;--text:#e6eef8;--muted:rgba(255,255,255,0.7);
   --accent:linear-gradient(135deg,#7ef0d3,#7bd1ff);
-}
+} 
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{height:100%;font-family:Inter,system-ui,Segoe UI,Roboto,Arial;background:linear-gradient(180deg,var(--bg-1),var(--bg-2));color:var(--text)}
 .nt-container{display:flex;flex-direction:column;min-height:100vh}
@@ -20,3 +20,4 @@ html,body{height:100%;font-family:Inter,system-ui,Segoe UI,Roboto,Arial;backgrou
 .nt-footer{text-align:center;padding:18px;color:var(--muted)}
 .favorited{background:linear-gradient(90deg,#ff9aa2,#ffd97a);color:#041225}
 @media (max-width:720px){.nt-quote{font-size:20px;padding:18px}}
+
