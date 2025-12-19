@@ -169,7 +169,7 @@ No external network permission is required by default — all content is local.
 3. Submit a pull request with a clear description of changes.
 4. Keep added image assets licensed or permissively available.
 
----
+--- 
 
 ## Changelog (high level)
 
