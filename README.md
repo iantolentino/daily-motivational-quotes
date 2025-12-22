@@ -18,7 +18,7 @@
 ---
 
 ## Project Structure
- 
+  
 ```
 motivational-quotes-extension/
 ├─ manifest.json
