@@ -1,4 +1,4 @@
-// settings.js
+// settings.js 
 (async () => {
   const DEFAULTS = {
     theme: 'dark',
